@@ -1,12 +1,38 @@
-# TheUni
 
-This is a repo containing all informations pertaining to my studies
+# Things to learn :books:
+## React :blue_heart:
+- Redux
+- FramerMotion
 
-## Links
+## Vue :green_heart:
+- VueX
 
+## Server Side Rendering (SSR) :rocket:
+- React -> next.js
+- Vue -> nuxt.js
+
+## CSS :art:
+- Tailwind
+  
+## Backend :package:
+- REST API
+- Nodejs api
+- MongoDb
+
+# Projects :computer:
+- Refactor Recipe App with Redux
+- Refactor Shopify App with VueX
+- Recipe App API
+- Recipe App SSR
+- Recipe App MongoDB
+- Auth App
+- Chat App
+- Loan Calculator App (Auth,DB,SSR,CRUD)
+
+# Links :link:
 You can find the links to useful website [here](./Links.md)
 
-## Agenda
+# Agenda :calendar:
 | Weeks |     Date      |   Desc   |                  Links                   |
 | :---: | :-----------: | :------: | :--------------------------------------: |
 |   1   | 01/16 - 01/20 | Planning |  [Week 1](./1st%20semester/Week%201.md)  |
