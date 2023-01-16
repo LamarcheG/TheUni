@@ -2,6 +2,10 @@
 
 This is a repo containing all informations pertaining to my studies
 
+## Links
+
+You can find the links to useful website [here](./Links.md)
+
 ## Agenda
 | Weeks |     Date      |   Desc   |                  Links                   |
 | :---: | :-----------: | :------: | :--------------------------------------: |
