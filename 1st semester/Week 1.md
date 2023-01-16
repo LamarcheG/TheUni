@@ -3,6 +3,10 @@ The first weeks of the semester is all about planning. We are going to learn abo
 
 ## Tasks :clipboard:
 
+- [ ] Create the folder structure for the semester.
+  
+>What im thinking is that we should have a folder for each semester and inside each semester folder we should have a folder for each week. In the week folder, we should have a README.md that contains the weekly plan and report. The daily logs should be in a separate file. 
+
 - [ ] We need to explain in details what we are going to do and how we are going to do it for each week.
 
 - [ ] We need to include links to the different resources we are going to use.
