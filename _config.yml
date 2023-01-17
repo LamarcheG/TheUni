@@ -47,7 +47,7 @@ edit_page_button: true
 # Output options (more information on Jekyll's site)
 timezone: "America/Toronto"
 markdown: kramdown
-remote_theme: pages-themes/hacker@v0.2.0
+remote_theme: minima
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
@@ -75,5 +75,4 @@ defaults:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-remote-theme
 
